@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.log
+a15-live-media.json
+a15-hook-events.log
+.DS_Store

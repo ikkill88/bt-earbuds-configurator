@@ -1,0 +1,9 @@
+{
+  "masterLocked": true,
+  "singleTap": true,
+  "doubleTap": true,
+  "tripleTap": true,
+  "longPress": true,
+  "inEarDetect": true,
+  "autoPowerOff": true
+}
